@@ -1,6 +1,10 @@
 import { useEffect } from "react";
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
+import Certificates from "./components/Certificates";
+import About from "./components/About";
+import Education from "./components/Education";
+import Projects from "./components/Projects";
 import Aos from "aos";
 import "aos/dist/aos.css";
 
@@ -24,6 +28,10 @@ const App = () => {
     >
       <Navbar />
       <Hero />
+      <About />
+      <Certificates />
+      <Education />
+      <Projects />
     </div>
   );
 };
