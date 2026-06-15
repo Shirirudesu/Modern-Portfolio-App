@@ -51,7 +51,7 @@ const Education = () => {
         />
         <div data-aos="fade-left" data-aos-duration="1000" className="lg:w-1/2">
           <div className="flex items-center gap-3 mb-4">
-            <img src={iconflower} alt="Flower" className="w-12 h-8 " />
+            <img src={iconflower} alt="Flower" className="w-12 h-8" />
             <h2
               className="text-3xl lg:text-5xl font-bold bg-linear-to-r
             from-pink-400 to-rose-400 bg-clip-text text-transparent"

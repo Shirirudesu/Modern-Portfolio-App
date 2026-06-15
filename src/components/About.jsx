@@ -34,7 +34,7 @@ const About = () => {
             <img
               src={iconflower}
               alt="flower"
-              className="w-10 h-8 sm:w-10 sm:h-8 shrink-0"
+              className="w-10 h-7 sm:w-10 sm:h-7 shrink-0"
             />
             <h2
               className="text-2xl sm:text-4xl lg:text-5xl font-bold
@@ -45,7 +45,7 @@ const About = () => {
             <img
               src={iconflower}
               alt="flower"
-              className="w-10 h-8 sm:w-10 sm:h-8 shrink-0"
+              className="w-10 h-7 sm:w-10 sm:h-7 shrink-0"
             />
           </div>
           <p

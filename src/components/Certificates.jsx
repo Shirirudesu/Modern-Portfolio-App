@@ -53,7 +53,7 @@ const Certificates = () => {
           <img
             src={iconflower}
             alt="flower"
-            className="md:w-20 md:h-16 w-18 h-16 drop-shadow-[0_0_10px_rgba(255,0,128,0.8)]"
+            className="md:w-20 md:h-14 w-18 h-12 drop-shadow-[0_0_10px_rgba(255,0,128,0.8)]"
           />
           <h2
             className="text-3xl lg:text-5xl font-bold bg-linear-to-r
@@ -65,7 +65,7 @@ const Certificates = () => {
           <img
             src={iconflower}
             alt="flower"
-            className="md:w-20 md:h-16 w-18 h-16 drop-shadow-[0_0_10px_rgba(255,0,128,0.8)]"
+            className="md:w-20 md:h-14 w-18 h-12 drop-shadow-[0_0_10px_rgba(255,0,128,0.8)]"
           />
         </div>
         <p className="text-gray-300 mt-4 font-mono">

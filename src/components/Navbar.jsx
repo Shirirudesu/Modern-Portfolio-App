@@ -32,7 +32,7 @@ const Navbar = () => {
           {/* Logo */}
           <a href="/" className="flex items-center space-x-2">
             <span className="text-2xl font-mono font-extrabold text-pink-600">
-              LA<span className="text-gray-900">ILA</span>
+              KI<span className="text-gray-900">RILL</span>
             </span>
           </a>
           {/* Navigation  */}

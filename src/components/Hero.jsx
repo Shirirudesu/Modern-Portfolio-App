@@ -78,7 +78,7 @@ const Hero = () => {
               className="title-font text-sm lg:text-lg mb-2
             font-bold text-pink-200 font-mono"
             >
-              LAILA OUALI
+              KIRILL SHEVCHENKO
             </p>
             <div
               className="flex items-center gap-3 justify-center
@@ -89,7 +89,7 @@ const Hero = () => {
                 className="title-font text-2xl sm:text-4xl lg:text-5xl
               mb-2 font-bold text-white font-mono"
               >
-                Hi, I'm LAILA
+                Hi, I'm KIRILL
               </h1>
               <img src={iconflower} alt="flower" className="w-10 h-8" />
             </div>
